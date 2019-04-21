@@ -18,7 +18,7 @@ class Introduction   extends Component {
       
       <Image
           style={{width: 200, height: 200}}
-          source={{uri: 'https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Account-512.png'}}
+          source={{uri: 'https://pbs.twimg.com/profile_images/1061308032179671041/0JZjFzIH_400x400.jpg'}}
         />
 
         <Text>Introduction</Text>
